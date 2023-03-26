@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RizHubxD/VestyHub/main/VestyHub/V3/Script"))();
